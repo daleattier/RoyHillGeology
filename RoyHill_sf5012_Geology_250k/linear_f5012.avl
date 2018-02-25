@@ -1,0 +1,743 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x01
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	81
+	Class:	82
+	Class:	83
+	Class:	84
+	Class:	85
+	Class:	86
+	Class:	87
+	Class:	88
+	Class:	89
+	Class:	90
+	Class:	91
+	Class:	92
+	Class:	93
+	StdDevs:	1.00000000000000
+	NullSym:	79
+	NullValues:	94
+	StatValues:	95
+	RotFieldName:	"Dip"
+	ScaleSymbols:	1
+	RefScale:	100000.00000000000000
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"symbol"
+)
+
+(SymList.4
+	Child:	5
+	Child:	7
+	Child:	9
+	Child:	23
+	Child:	25
+	Child:	27
+	Child:	29
+	Child:	31
+	Child:	33
+	Child:	54
+	Child:	75
+	Child:	77
+	Child:	79
+)
+
+(BLnSym.5
+	Color:	6
+	Width:	2.00000000000000
+	Pattern:	6.00000000000000
+	Pattern:	6.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.6
+)
+
+(BLnSym.7
+	Color:	8
+	Width:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.8
+)
+
+(CAiLnSym.9
+	Color:	10
+	ColorLock:	1
+	Size:	16.00000000000000
+	Symbols:	11
+)
+
+(TClr.10
+)
+
+(SymList.11
+	Child:	12
+	Child:	21
+)
+
+(VLnMark.12
+	Color:	13
+	ColorLock:	1
+	Size:	16.00000000000000
+	AltSize:	-0.80000000000000
+	Interval:	4.20800000000000
+	Template:	"021"
+	BasicMarker:	14
+)
+
+(TClr.13
+	Red:	0xffff
+)
+
+(BMkSym.14
+	Color:	15
+	BgColor:	16
+	Font:	17
+	Size:	16.00000000000000
+	Pattern:	70
+	Angle:	57.14427804958464
+)
+
+(TClr.15
+	Red:	0xffff
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NFont.17
+	Family:	18
+	Name:	19
+	Style:	20
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.18
+	S:	"ESRI Geology"
+)
+
+(AVStr.19
+	S:	"ESRI Geology"
+)
+
+(AVStr.20
+	S:	"Normal"
+)
+
+(BLnSym.21
+	Color:	22
+	ColorLock:	1
+	Width:	0.50000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.22
+	Red:	0xffff
+)
+
+(BLnSym.23
+	Color:	24
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.24
+	Red:	0xfebc
+	Green:	0x99a
+	Blue:	0x7bc8
+)
+
+(BLnSym.25
+	Color:	26
+	Width:	0.10000000000000
+	Pattern:	10.00000000000000
+	Pattern:	6.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.26
+)
+
+(BLnSym.27
+	Color:	28
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.28
+	Red:	0xb97
+	Green:	0xd3ff
+	Blue:	0x841c
+)
+
+(BLnSym.29
+	Color:	30
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.30
+	Red:	0xb97
+	Green:	0xd3ff
+	Blue:	0x841c
+)
+
+(BLnSym.31
+	Color:	32
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.32
+	Red:	0xb97
+	Green:	0xd3ff
+	Blue:	0x841c
+)
+
+(CAiLnSym.33
+	Color:	34
+	ColorLock:	1
+	Size:	16.00000000000000
+	Symbols:	35
+)
+
+(TClr.34
+)
+
+(SymList.35
+	Child:	36
+	Child:	45
+)
+
+(VLnMark.36
+	Color:	37
+	ColorLock:	1
+	Size:	16.00000000000000
+	Interval:	4.20800000000000
+	MarkLayerX:	-2.99200000000000
+	MarkLayerY:	-0.80000000000000
+	Template:	"021"
+	BasicMarker:	38
+)
+
+(TClr.37
+	Red:	0xffff
+)
+
+(BMkSym.38
+	Color:	39
+	BgColor:	40
+	Font:	41
+	Size:	16.00000000000000
+	Pattern:	70
+	Angle:	57.14427804958462
+)
+
+(TClr.39
+	Red:	0xffff
+)
+
+(TClr.40
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NFont.41
+	Family:	42
+	Name:	43
+	Style:	44
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.42
+	S:	"ESRI Geology"
+)
+
+(AVStr.43
+	S:	"ESRI Geology"
+)
+
+(AVStr.44
+	S:	"Normal"
+)
+
+(VLnMark.45
+	Color:	46
+	ColorLock:	1
+	Size:	16.00000000000000
+	Template:	"71"
+	BasicMarker:	47
+)
+
+(TClr.46
+	Red:	0xffff
+)
+
+(BMkSym.47
+	Color:	48
+	BgColor:	49
+	Font:	50
+	Size:	16.00000000000000
+	Pattern:	249
+	Angle:	57.14427804958462
+)
+
+(TClr.48
+	Red:	0xffff
+)
+
+(TClr.49
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NFont.50
+	Family:	51
+	Name:	52
+	Style:	53
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.51
+	S:	"ESRI Geology"
+)
+
+(AVStr.52
+	S:	"ESRI Geology"
+)
+
+(AVStr.53
+	S:	"Normal"
+)
+
+(CAiLnSym.54
+	Color:	55
+	ColorLock:	1
+	Size:	16.00000000000000
+	Symbols:	56
+)
+
+(TClr.55
+)
+
+(SymList.56
+	Child:	57
+	Child:	66
+)
+
+(VLnMark.57
+	Color:	58
+	ColorLock:	1
+	Size:	16.00000000000000
+	Interval:	8.00000000000000
+	MarkLayerX:	-5.12000000000000
+	MarkLayerY:	-0.40000000000000
+	Template:	"021"
+	BasicMarker:	59
+)
+
+(TClr.58
+	Red:	0xffff
+)
+
+(BMkSym.59
+	Color:	60
+	BgColor:	61
+	Font:	62
+	Size:	16.00000000000000
+	Pattern:	77
+	Angle:	57.14427804958462
+)
+
+(TClr.60
+	Red:	0xffff
+)
+
+(TClr.61
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NFont.62
+	Family:	63
+	Name:	64
+	Style:	65
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.63
+	S:	"ESRI Geology"
+)
+
+(AVStr.64
+	S:	"ESRI Geology"
+)
+
+(AVStr.65
+	S:	"Normal"
+)
+
+(VLnMark.66
+	Color:	67
+	ColorLock:	1
+	Size:	16.00000000000000
+	Template:	"71"
+	BasicMarker:	68
+)
+
+(TClr.67
+	Red:	0xffff
+)
+
+(BMkSym.68
+	Color:	69
+	BgColor:	70
+	Font:	71
+	Size:	16.00000000000000
+	Pattern:	249
+	Angle:	57.14427804958462
+)
+
+(TClr.69
+	Red:	0xffff
+)
+
+(TClr.70
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NFont.71
+	Family:	72
+	Name:	73
+	Style:	74
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.72
+	S:	"ESRI Geology"
+)
+
+(AVStr.73
+	S:	"ESRI Geology"
+)
+
+(AVStr.74
+	S:	"Normal"
+)
+
+(BLnSym.75
+	Color:	76
+	Width:	0.10000000000000
+	Pattern:	6.00000000000000
+	Pattern:	6.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.76
+	Red:	0xb97
+	Green:	0xd3ff
+	Blue:	0x841c
+)
+
+(BLnSym.77
+	Color:	78
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.78
+)
+
+(BLnSym.79
+	Color:	80
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.80
+	Name:	"Transparent"
+)
+
+(LClass.81
+	Label:	"Fault; concealed"
+	MinNum:	130.00000000000000
+	MaxNum:	130.00000000000000
+	Precision:	-3
+)
+
+(LClass.82
+	Label:	"Fault; exposed"
+	MinNum:	146.00000000000000
+	MaxNum:	146.00000000000000
+	Precision:	-3
+)
+
+(LClass.83
+	Label:	"Major fold, showing trend and plunge direction; anticline; exposed"
+	MinNum:	831.00000000000000
+	MaxNum:	831.00000000000000
+	Precision:	-3
+)
+
+(LClass.84
+	Label:	"Bedding, showing strike and dip; strike and dip estimated from aerial photographs, trend"
+	MinNum:	849.00000000000000
+	MaxNum:	849.00000000000000
+	Precision:	-3
+)
+
+(LClass.85
+	Label:	"Dolerite dyke; d4"
+	MinNum:	850.00000000000000
+	MaxNum:	850.00000000000000
+	Precision:	-3
+)
+
+(LClass.86
+	Label:	"Dolerite dyke; d5"
+	MinNum:	851.00000000000000
+	MaxNum:	851.00000000000000
+	Precision:	-3
+)
+
+(LClass.87
+	Label:	"Dolerite dyke; d7"
+	MinNum:	852.00000000000000
+	MaxNum:	852.00000000000000
+	Precision:	-3
+)
+
+(LClass.88
+	Label:	"Major fold, showing trend and plunge direction; anticline; concealed"
+	MinNum:	853.00000000000000
+	MaxNum:	853.00000000000000
+	Precision:	-3
+)
+
+(LClass.89
+	Label:	"Major fold, showing trend and plunge direction; syncline, exposed"
+	MinNum:	854.00000000000000
+	MaxNum:	854.00000000000000
+	Precision:	-3
+)
+
+(LClass.90
+	Label:	"Metadolerite dyke; d1"
+	MinNum:	855.00000000000000
+	MaxNum:	855.00000000000000
+	Precision:	-3
+)
+
+(LClass.91
+	Label:	"Metamorphic foliation, showing strike and dip; Pre-Fortesque Group, interpreted from aerial photographs, trend"
+	MinNum:	856.00000000000000
+	MaxNum:	856.00000000000000
+	Precision:	-3
+)
+
+(LClass.92
+	Label:	"Quartz vein; q"
+	MinNum:	857.00000000000000
+	MaxNum:	857.00000000000000
+	Precision:	-3
+)
+
+(LClass.93
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(NameDict.94
+)
+
+(NameDict.95
+)
+
